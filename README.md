@@ -1,6 +1,6 @@
 # Overview
 
-This is my first R app. It reads health data from csv file, convert into dataframe, and generates reports. ¥n
+This is my first R app. It reads health data from csv file, convert into dataframe, and generates reports. <br>
 I focused on utilizing visualizaton function in R, using ggplot2 library.
 
 [Software Demo Video](https://youtu.be/Y3wgA7hpNAk)
