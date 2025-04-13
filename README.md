@@ -1,7 +1,6 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-This is my first R app. It reads health data from csv file, convert into dataframe, and generates reports.
+This is my first R app. It reads health data from csv file, convert into dataframe, and generates reports. ¥n
 I focused on utilizing visualizaton function in R, using ggplot2 library.
 
 [Software Demo Video](https://youtu.be/Y3wgA7hpNAk)
