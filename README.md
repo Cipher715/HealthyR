@@ -7,7 +7,7 @@ I focused on utilizing visualizaton function in R, using ggplot2 library.
 
 # Development Environment
 
-You have to inastall R to run R language on your machine.
+You have to inastall R to run R language on your machine.<br>
 [Install R](https://posit.co/download/rstudio-desktop)
 
 On your VSCode, install R Extension for Visual Studio Code.
@@ -16,9 +16,9 @@ Once you set up the environnment, open main.R and click the start button at the 
 It will run R in your terminalo view, you can exit with q().
 
 At the first time, you will get some errors regarding importing libraries.
-Copy and paste these commands to your R console and run again.
-install.packages("ggplot2")
-install.packages("dplyr")
+Copy and paste these commands to your R console and run again.<br>
+install.packages("ggplot2")<br>
+install.packages("dplyr")<br>
 
 # Useful Websites
 
